@@ -1,4 +1,4 @@
-print("program to count words in a given string \n Enter a string")
+print("program to count char in a given string \n Enter a string")
 s=input()
 count=0
 for x in s:
